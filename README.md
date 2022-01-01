@@ -1,2 +1,2 @@
-# sf_data_sience
+# My Data Sience projects
 SF's first homework
