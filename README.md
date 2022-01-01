@@ -1,2 +1,2 @@
-# sf_data_slience
+# sf_data_sience
 SF's first homework
