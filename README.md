@@ -8,4 +8,4 @@ From the [SkillFactory Data science course](https://skillfactory.ru/data-scienti
 * [Проект 1. ________________](___)
 * [Проект 2. ________________](___)
 
-## Ссыдка на резюме:
+## Ссылки на резюме
