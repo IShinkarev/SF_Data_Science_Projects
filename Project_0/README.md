@@ -1,0 +1,12 @@
+# Проект 0. Угадай число
+
+## Оглавление
+[1. Описание проекта](https://skillfactory.ru/data-scientist-syllabus-thankyou#syllabus)
+
+## Проекты
+
+* [Проект 0. Игра: Угадай число](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0)
+* [Проект 1. ________________](___)
+* [Проект 2. ________________](___)
+
+## Ссылки на резюме
