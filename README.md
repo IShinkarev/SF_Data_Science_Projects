@@ -4,8 +4,8 @@ From the [SkillFactory Data science course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/IShinkarev/SF_Data_Science_course/tree/main/PROJECT-0)
-* [Проект 1. Анализ вакансий из HeadHunter](https://github.com/IShinkarev/SF_Data_Science_course/tree/main/PROJECT-1)
+* [Проект 0. Игра: Угадай число](https://github.com/IShinkarev/SF_Data_Science_course/tree/main/PROJECT-0_Угадай_число)
+* [Проект 1. Анализ вакансий из HeadHunter](https://github.com/IShinkarev/SF_Data_Science_course/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter)
 * [Проект 2. ________________](___)
 
 ## Ссылки на резюме
