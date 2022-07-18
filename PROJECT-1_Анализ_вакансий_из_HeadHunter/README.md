@@ -14,7 +14,7 @@
 [6. Выводы](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Выводы)
 
 ### 1. Описание проекта
-В нашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru: https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing.
+В нашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru (ссылка: https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
 
 Проблематика: часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
 
