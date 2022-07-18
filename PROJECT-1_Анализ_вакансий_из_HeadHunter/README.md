@@ -1,22 +1,22 @@
-# Проект 0. Угадай число
+# Проект 1. Анализ вакансий из HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0/README.md#Выводы)
+[4. Этапы работы над проектом](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Выводы)
 
-[5. Результат](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0/README.md#Результат)
+[5. Результат](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Результат)
 
-[6. Выводы](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0/README.md#Выводы)
+[6. Выводы](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Выводы)
 
 ### 1. Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Оглавление)
 
 ### 2. Какой кейс решаем?
 Нужно написать программу, которая угадывает число за минимальное число попыток.
@@ -36,7 +36,7 @@
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Оглавление)
 
 ### 3. Краткая информация о данных
 
@@ -52,7 +52,7 @@
 
 Программа угадывает заданное число в среднем за 5 попыток.  
 
-:arrow_up:[к оглавлению](https://github.com/IShinkarev/sf_data_sience/tree/main/Project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Оглавление)
 
 ### 6. Выводы
 
