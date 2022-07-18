@@ -11,7 +11,7 @@
 
 [5. Результат](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-0_Угадай_число/README.md#Результат)
 
-[6. Выводы](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-0_Угадай_число/README.md#Выводы)
+[6. Выводы](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-0_Угадай_число/README.md#6. Выводы)
 
 ### 1. Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
