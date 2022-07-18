@@ -11,7 +11,7 @@
 
 [5. Результат](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Результат)
 
-[6. Выводы](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md##Выводы)
+[6. Выводы](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Выводы)
 
 ### 1. Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -48,7 +48,7 @@
 2. Написание кода функции для расчета среднего количства попыток нахождения заданного числа за 1000 подходов
 3. Оформление проекта на GitHub
 
-### 5. Результат
+### 5. Результат <a name="5. Результат"></a>
 
 Программа угадывает заданное число в среднем за 5 попыток.  
 
