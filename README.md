@@ -1,4 +1,4 @@
-# My Data Sience projects
+# My Data Sсience projects
 
 From the [SkillFactory Data science course](https://skillfactory.ru/data-scientist-syllabus-thankyou#syllabus)
 
