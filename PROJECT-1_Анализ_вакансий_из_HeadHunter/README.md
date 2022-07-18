@@ -11,7 +11,7 @@
 
 [5. Результат](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Результат)
 
-[6. Выводы](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md#Выводы)
+[6. Выводы](https://github.com/IShinkarev/sf_data_sience/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter/README.md##Выводы)
 
 ### 1. Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
