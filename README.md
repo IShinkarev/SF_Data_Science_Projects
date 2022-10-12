@@ -8,5 +8,6 @@ From the [SkillFactory Data science course](https://skillfactory.ru/data-scienti
 * [Проект 1. Анализ вакансий из HeadHunter](https://github.com/IShinkarev/SF_Data_Science_course/tree/main/PROJECT-1_Анализ_вакансий_из_HeadHunter)
 * [Проект 2. Подгрузка новых данных. Уточнение анализа ](https://github.com/IShinkarev/SF_Data_Science_Projects/tree/main/PROJECT-2_Подгрузка_новых_данных_Уточнение_анализа)
 * [Проект 3. Прогнозирование рейтинга отеля на Booking](             )
+* [Проект 4. Задача классификации](             )
 
 ## Ссылки на резюме
